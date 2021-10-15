@@ -3,4 +3,4 @@ QML Calendar component with no extra dependencies
 
 ## Screenshot
 
-![](./Screenshot 2021-10-15 203043.png)
+![](./Screenshot2021-10-15203043.png)
